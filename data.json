@@ -1,0 +1,4261 @@
+{
+    "bedroom": {
+        "9-22-2017": [
+            [
+                13,
+                40.3,
+                [
+                    {
+                        "minute": 53,
+                        "second": 12,
+                        "epoch": 1506113592000.0,
+                        "temp": 36
+                    },
+                    {
+                        "minute": 53,
+                        "second": 12,
+                        "epoch": 1506113592000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 53,
+                        "second": 12,
+                        "epoch": 1506113592000.0,
+                        "temp": 30
+                    },
+                    {
+                        "minute": 53,
+                        "second": 12,
+                        "epoch": 1506113592000.0,
+                        "temp": 85
+                    },
+                    {
+                        "minute": 53,
+                        "second": 12,
+                        "epoch": 1506113592000.0,
+                        "temp": 26
+                    },
+                    {
+                        "minute": 58,
+                        "second": 9,
+                        "epoch": 1506113889000.0,
+                        "temp": 1
+                    },
+                    {
+                        "minute": 58,
+                        "second": 9,
+                        "epoch": 1506113889000.0,
+                        "temp": 20
+                    },
+                    {
+                        "minute": 58,
+                        "second": 9,
+                        "epoch": 1506113889000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 58,
+                        "second": 9,
+                        "epoch": 1506113889000.0,
+                        "temp": 8
+                    },
+                    {
+                        "minute": 58,
+                        "second": 9,
+                        "epoch": 1506113889000.0,
+                        "temp": 57
+                    }
+                ]
+            ],
+            [
+                14,
+                73.928,
+                [
+                    {
+                        "minute": 3,
+                        "second": 9,
+                        "epoch": 1506114189000.0,
+                        "temp": 5
+                    },
+                    {
+                        "minute": 3,
+                        "second": 9,
+                        "epoch": 1506114189000.0,
+                        "temp": 43
+                    },
+                    {
+                        "minute": 3,
+                        "second": 9,
+                        "epoch": 1506114189000.0,
+                        "temp": 117
+                    },
+                    {
+                        "minute": 3,
+                        "second": 9,
+                        "epoch": 1506114189000.0,
+                        "temp": 65
+                    },
+                    {
+                        "minute": 3,
+                        "second": 9,
+                        "epoch": 1506114189000.0,
+                        "temp": 113
+                    },
+                    {
+                        "minute": 8,
+                        "second": 9,
+                        "epoch": 1506114489000.0,
+                        "temp": 17
+                    },
+                    {
+                        "minute": 8,
+                        "second": 9,
+                        "epoch": 1506114489000.0,
+                        "temp": 19
+                    },
+                    {
+                        "minute": 8,
+                        "second": 9,
+                        "epoch": 1506114489000.0,
+                        "temp": 9
+                    },
+                    {
+                        "minute": 8,
+                        "second": 9,
+                        "epoch": 1506114489000.0,
+                        "temp": 119
+                    },
+                    {
+                        "minute": 8,
+                        "second": 9,
+                        "epoch": 1506114489000.0,
+                        "temp": 91
+                    },
+                    {
+                        "minute": 13,
+                        "second": 9,
+                        "epoch": 1506114789000.0,
+                        "temp": 118
+                    },
+                    {
+                        "minute": 13,
+                        "second": 9,
+                        "epoch": 1506114789000.0,
+                        "temp": 41
+                    },
+                    {
+                        "minute": 13,
+                        "second": 9,
+                        "epoch": 1506114789000.0,
+                        "temp": 99
+                    },
+                    {
+                        "minute": 13,
+                        "second": 9,
+                        "epoch": 1506114789000.0,
+                        "temp": 45
+                    },
+                    {
+                        "minute": 13,
+                        "second": 9,
+                        "epoch": 1506114789000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 18,
+                        "second": 9,
+                        "epoch": 1506115089000.0,
+                        "temp": 3
+                    },
+                    {
+                        "minute": 18,
+                        "second": 9,
+                        "epoch": 1506115089000.0,
+                        "temp": 119
+                    },
+                    {
+                        "minute": 18,
+                        "second": 9,
+                        "epoch": 1506115089000.0,
+                        "temp": 33
+                    },
+                    {
+                        "minute": 18,
+                        "second": 9,
+                        "epoch": 1506115089000.0,
+                        "temp": 19
+                    },
+                    {
+                        "minute": 18,
+                        "second": 9,
+                        "epoch": 1506115089000.0,
+                        "temp": 23
+                    },
+                    {
+                        "minute": 23,
+                        "second": 9,
+                        "epoch": 1506115389000.0,
+                        "temp": 105
+                    },
+                    {
+                        "minute": 23,
+                        "second": 9,
+                        "epoch": 1506115389000.0,
+                        "temp": 114
+                    },
+                    {
+                        "minute": 23,
+                        "second": 9,
+                        "epoch": 1506115389000.0,
+                        "temp": 44
+                    },
+                    {
+                        "minute": 23,
+                        "second": 9,
+                        "epoch": 1506115389000.0,
+                        "temp": 37
+                    },
+                    {
+                        "minute": 23,
+                        "second": 9,
+                        "epoch": 1506115389000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 28,
+                        "second": 9,
+                        "epoch": 1506115689000.0,
+                        "temp": 95
+                    },
+                    {
+                        "minute": 28,
+                        "second": 9,
+                        "epoch": 1506115689000.0,
+                        "temp": 15
+                    },
+                    {
+                        "minute": 28,
+                        "second": 9,
+                        "epoch": 1506115689000.0,
+                        "temp": 28
+                    },
+                    {
+                        "minute": 28,
+                        "second": 9,
+                        "epoch": 1506115689000.0,
+                        "temp": 114
+                    },
+                    {
+                        "minute": 28,
+                        "second": 9,
+                        "epoch": 1506115689000.0,
+                        "temp": 66
+                    },
+                    {
+                        "minute": 33,
+                        "second": 9,
+                        "epoch": 1506115989000.0,
+                        "temp": 47
+                    },
+                    {
+                        "minute": 33,
+                        "second": 9,
+                        "epoch": 1506115989000.0,
+                        "temp": 34
+                    },
+                    {
+                        "minute": 33,
+                        "second": 9,
+                        "epoch": 1506115989000.0,
+                        "temp": 113
+                    },
+                    {
+                        "minute": 33,
+                        "second": 9,
+                        "epoch": 1506115989000.0,
+                        "temp": 87
+                    },
+                    {
+                        "minute": 33,
+                        "second": 9,
+                        "epoch": 1506115989000.0,
+                        "temp": 80
+                    },
+                    {
+                        "minute": 37,
+                        "second": 47,
+                        "epoch": 1506116267000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 37,
+                        "second": 47,
+                        "epoch": 1506116267000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 37,
+                        "second": 47,
+                        "epoch": 1506116267000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 37,
+                        "second": 47,
+                        "epoch": 1506116267000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 37,
+                        "second": 47,
+                        "epoch": 1506116267000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 40,
+                        "second": 33,
+                        "epoch": 1506116433000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 40,
+                        "second": 33,
+                        "epoch": 1506116433000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 40,
+                        "second": 33,
+                        "epoch": 1506116433000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 40,
+                        "second": 34,
+                        "epoch": 1506116434000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 40,
+                        "second": 34,
+                        "epoch": 1506116434000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 40,
+                        "second": 52,
+                        "epoch": 1506116452000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 40,
+                        "second": 52,
+                        "epoch": 1506116452000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 40,
+                        "second": 52,
+                        "epoch": 1506116452000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 40,
+                        "second": 52,
+                        "epoch": 1506116452000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 40,
+                        "second": 52,
+                        "epoch": 1506116452000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 40,
+                        "second": 58,
+                        "epoch": 1506116458000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 40,
+                        "second": 58,
+                        "epoch": 1506116458000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 40,
+                        "second": 58,
+                        "epoch": 1506116458000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 40,
+                        "second": 58,
+                        "epoch": 1506116458000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 40,
+                        "second": 58,
+                        "epoch": 1506116458000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 4,
+                        "epoch": 1506116464000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 41,
+                        "second": 4,
+                        "epoch": 1506116464000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 41,
+                        "second": 4,
+                        "epoch": 1506116464000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 4,
+                        "epoch": 1506116464000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 41,
+                        "second": 4,
+                        "epoch": 1506116464000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 41,
+                        "second": 10,
+                        "epoch": 1506116470000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 10,
+                        "epoch": 1506116470000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 41,
+                        "second": 10,
+                        "epoch": 1506116470000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 10,
+                        "epoch": 1506116470000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 41,
+                        "second": 10,
+                        "epoch": 1506116470000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 41,
+                        "second": 16,
+                        "epoch": 1506116476000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 41,
+                        "second": 16,
+                        "epoch": 1506116476000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 16,
+                        "epoch": 1506116476000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 41,
+                        "second": 16,
+                        "epoch": 1506116476000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 16,
+                        "epoch": 1506116476000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 41,
+                        "second": 22,
+                        "epoch": 1506116482000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 41,
+                        "second": 22,
+                        "epoch": 1506116482000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 22,
+                        "epoch": 1506116482000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 41,
+                        "second": 22,
+                        "epoch": 1506116482000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 41,
+                        "second": 22,
+                        "epoch": 1506116482000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 28,
+                        "epoch": 1506116488000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 41,
+                        "second": 28,
+                        "epoch": 1506116488000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 41,
+                        "second": 28,
+                        "epoch": 1506116488000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 28,
+                        "epoch": 1506116488000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 41,
+                        "second": 28,
+                        "epoch": 1506116488000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 34,
+                        "epoch": 1506116494000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 34,
+                        "epoch": 1506116494000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 41,
+                        "second": 34,
+                        "epoch": 1506116494000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 34,
+                        "epoch": 1506116494000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 34,
+                        "epoch": 1506116494000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 41,
+                        "second": 40,
+                        "epoch": 1506116500000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 41,
+                        "second": 40,
+                        "epoch": 1506116500000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 40,
+                        "epoch": 1506116500000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 41,
+                        "second": 40,
+                        "epoch": 1506116500000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 41,
+                        "second": 40,
+                        "epoch": 1506116500000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 46,
+                        "epoch": 1506116506000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 46,
+                        "epoch": 1506116506000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 41,
+                        "second": 46,
+                        "epoch": 1506116506000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 46,
+                        "epoch": 1506116506000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 46,
+                        "epoch": 1506116506000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 41,
+                        "second": 52,
+                        "epoch": 1506116512000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 41,
+                        "second": 52,
+                        "epoch": 1506116512000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 52,
+                        "epoch": 1506116512000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 41,
+                        "second": 52,
+                        "epoch": 1506116512000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 52,
+                        "epoch": 1506116512000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 58,
+                        "epoch": 1506116518000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 41,
+                        "second": 58,
+                        "epoch": 1506116518000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 41,
+                        "second": 58,
+                        "epoch": 1506116518000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 41,
+                        "second": 58,
+                        "epoch": 1506116518000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 41,
+                        "second": 58,
+                        "epoch": 1506116518000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 4,
+                        "epoch": 1506116524000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 42,
+                        "second": 4,
+                        "epoch": 1506116524000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 4,
+                        "epoch": 1506116524000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 42,
+                        "second": 4,
+                        "epoch": 1506116524000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 42,
+                        "second": 4,
+                        "epoch": 1506116524000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 42,
+                        "second": 10,
+                        "epoch": 1506116530000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 10,
+                        "epoch": 1506116530000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 10,
+                        "epoch": 1506116530000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 10,
+                        "epoch": 1506116530000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 10,
+                        "epoch": 1506116530000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 42,
+                        "second": 16,
+                        "epoch": 1506116536000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 16,
+                        "epoch": 1506116536000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 16,
+                        "epoch": 1506116536000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 42,
+                        "second": 16,
+                        "epoch": 1506116536000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 16,
+                        "epoch": 1506116536000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 22,
+                        "epoch": 1506116542000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 22,
+                        "epoch": 1506116542000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 42,
+                        "second": 22,
+                        "epoch": 1506116542000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 22,
+                        "epoch": 1506116542000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 22,
+                        "epoch": 1506116542000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 42,
+                        "second": 28,
+                        "epoch": 1506116548000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 42,
+                        "second": 28,
+                        "epoch": 1506116548000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 42,
+                        "second": 28,
+                        "epoch": 1506116548000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 28,
+                        "epoch": 1506116548000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 28,
+                        "epoch": 1506116548000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 42,
+                        "second": 34,
+                        "epoch": 1506116554000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 42,
+                        "second": 34,
+                        "epoch": 1506116554000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 34,
+                        "epoch": 1506116554000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 34,
+                        "epoch": 1506116554000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 42,
+                        "second": 34,
+                        "epoch": 1506116554000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 40,
+                        "epoch": 1506116560000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 40,
+                        "epoch": 1506116560000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 40,
+                        "epoch": 1506116560000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 40,
+                        "epoch": 1506116560000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 40,
+                        "epoch": 1506116560000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 42,
+                        "second": 46,
+                        "epoch": 1506116566000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 46,
+                        "epoch": 1506116566000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 46,
+                        "epoch": 1506116566000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 46,
+                        "epoch": 1506116566000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 42,
+                        "second": 46,
+                        "epoch": 1506116566000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 52,
+                        "epoch": 1506116572000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 52,
+                        "epoch": 1506116572000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 42,
+                        "second": 52,
+                        "epoch": 1506116572000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 52,
+                        "epoch": 1506116572000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 42,
+                        "second": 52,
+                        "epoch": 1506116572000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 58,
+                        "epoch": 1506116578000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 42,
+                        "second": 58,
+                        "epoch": 1506116578000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 42,
+                        "second": 58,
+                        "epoch": 1506116578000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 42,
+                        "second": 58,
+                        "epoch": 1506116578000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 42,
+                        "second": 58,
+                        "epoch": 1506116578000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 4,
+                        "epoch": 1506116584000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 43,
+                        "second": 4,
+                        "epoch": 1506116584000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 4,
+                        "epoch": 1506116584000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 43,
+                        "second": 4,
+                        "epoch": 1506116584000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 4,
+                        "epoch": 1506116584000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 43,
+                        "second": 10,
+                        "epoch": 1506116590000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 43,
+                        "second": 10,
+                        "epoch": 1506116590000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 43,
+                        "second": 10,
+                        "epoch": 1506116590000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 10,
+                        "epoch": 1506116590000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 43,
+                        "second": 10,
+                        "epoch": 1506116590000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 16,
+                        "epoch": 1506116596000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 16,
+                        "epoch": 1506116596000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 43,
+                        "second": 16,
+                        "epoch": 1506116596000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 16,
+                        "epoch": 1506116596000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 43,
+                        "second": 16,
+                        "epoch": 1506116596000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 43,
+                        "second": 22,
+                        "epoch": 1506116602000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 43,
+                        "second": 22,
+                        "epoch": 1506116602000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 43,
+                        "second": 22,
+                        "epoch": 1506116602000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 43,
+                        "second": 22,
+                        "epoch": 1506116602000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 22,
+                        "epoch": 1506116602000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 28,
+                        "epoch": 1506116608000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 43,
+                        "second": 28,
+                        "epoch": 1506116608000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 43,
+                        "second": 28,
+                        "epoch": 1506116608000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 28,
+                        "epoch": 1506116608000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 28,
+                        "epoch": 1506116608000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 43,
+                        "second": 34,
+                        "epoch": 1506116614000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 43,
+                        "second": 34,
+                        "epoch": 1506116614000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 43,
+                        "second": 34,
+                        "epoch": 1506116614000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 43,
+                        "second": 34,
+                        "epoch": 1506116614000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 43,
+                        "second": 34,
+                        "epoch": 1506116614000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 43,
+                        "second": 40,
+                        "epoch": 1506116620000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 40,
+                        "epoch": 1506116620000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 40,
+                        "epoch": 1506116620000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 43,
+                        "second": 40,
+                        "epoch": 1506116620000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 40,
+                        "epoch": 1506116620000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 46,
+                        "epoch": 1506116626000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 46,
+                        "epoch": 1506116626000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 43,
+                        "second": 46,
+                        "epoch": 1506116626000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 43,
+                        "second": 46,
+                        "epoch": 1506116626000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 43,
+                        "second": 46,
+                        "epoch": 1506116626000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 52,
+                        "epoch": 1506116632000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 52,
+                        "epoch": 1506116632000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 43,
+                        "second": 52,
+                        "epoch": 1506116632000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 43,
+                        "second": 52,
+                        "epoch": 1506116632000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 43,
+                        "second": 52,
+                        "epoch": 1506116632000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 43,
+                        "second": 58,
+                        "epoch": 1506116638000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 43,
+                        "second": 58,
+                        "epoch": 1506116638000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 43,
+                        "second": 58,
+                        "epoch": 1506116638000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 43,
+                        "second": 58,
+                        "epoch": 1506116638000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 43,
+                        "second": 58,
+                        "epoch": 1506116638000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 4,
+                        "epoch": 1506116644000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 44,
+                        "second": 4,
+                        "epoch": 1506116644000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 4,
+                        "epoch": 1506116644000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 44,
+                        "second": 4,
+                        "epoch": 1506116644000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 44,
+                        "second": 4,
+                        "epoch": 1506116644000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 10,
+                        "epoch": 1506116650000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 10,
+                        "epoch": 1506116650000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 10,
+                        "epoch": 1506116650000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 10,
+                        "epoch": 1506116650000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 10,
+                        "epoch": 1506116650000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 44,
+                        "second": 16,
+                        "epoch": 1506116656000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 16,
+                        "epoch": 1506116656000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 16,
+                        "epoch": 1506116656000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 16,
+                        "epoch": 1506116656000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 44,
+                        "second": 16,
+                        "epoch": 1506116656000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 22,
+                        "epoch": 1506116662000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 44,
+                        "second": 22,
+                        "epoch": 1506116662000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 22,
+                        "epoch": 1506116662000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 22,
+                        "epoch": 1506116662000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 44,
+                        "second": 22,
+                        "epoch": 1506116662000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 28,
+                        "epoch": 1506116668000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 44,
+                        "second": 28,
+                        "epoch": 1506116668000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 44,
+                        "second": 28,
+                        "epoch": 1506116668000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 44,
+                        "second": 28,
+                        "epoch": 1506116668000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 44,
+                        "second": 28,
+                        "epoch": 1506116668000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 44,
+                        "second": 34,
+                        "epoch": 1506116674000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 34,
+                        "epoch": 1506116674000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 44,
+                        "second": 34,
+                        "epoch": 1506116674000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 44,
+                        "second": 34,
+                        "epoch": 1506116674000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 44,
+                        "second": 34,
+                        "epoch": 1506116674000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 44,
+                        "second": 40,
+                        "epoch": 1506116680000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 40,
+                        "epoch": 1506116680000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 40,
+                        "epoch": 1506116680000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 40,
+                        "epoch": 1506116680000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 40,
+                        "epoch": 1506116680000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 44,
+                        "second": 46,
+                        "epoch": 1506116686000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 44,
+                        "second": 46,
+                        "epoch": 1506116686000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 46,
+                        "epoch": 1506116686000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 46,
+                        "epoch": 1506116686000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 44,
+                        "second": 46,
+                        "epoch": 1506116686000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 52,
+                        "epoch": 1506116692000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 44,
+                        "second": 52,
+                        "epoch": 1506116692000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 52,
+                        "epoch": 1506116692000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 44,
+                        "second": 52,
+                        "epoch": 1506116692000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 44,
+                        "second": 52,
+                        "epoch": 1506116692000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 58,
+                        "epoch": 1506116698000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 44,
+                        "second": 58,
+                        "epoch": 1506116698000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 44,
+                        "second": 58,
+                        "epoch": 1506116698000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 44,
+                        "second": 58,
+                        "epoch": 1506116698000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 44,
+                        "second": 58,
+                        "epoch": 1506116698000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 45,
+                        "second": 4,
+                        "epoch": 1506116704000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 45,
+                        "second": 4,
+                        "epoch": 1506116704000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 4,
+                        "epoch": 1506116704000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 45,
+                        "second": 4,
+                        "epoch": 1506116704000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 45,
+                        "second": 4,
+                        "epoch": 1506116704000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 10,
+                        "epoch": 1506116710000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 10,
+                        "epoch": 1506116710000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 45,
+                        "second": 10,
+                        "epoch": 1506116710000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 45,
+                        "second": 10,
+                        "epoch": 1506116710000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 45,
+                        "second": 10,
+                        "epoch": 1506116710000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 16,
+                        "epoch": 1506116716000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 16,
+                        "epoch": 1506116716000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 45,
+                        "second": 16,
+                        "epoch": 1506116716000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 45,
+                        "second": 16,
+                        "epoch": 1506116716000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 45,
+                        "second": 16,
+                        "epoch": 1506116716000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 22,
+                        "epoch": 1506116722000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 22,
+                        "epoch": 1506116722000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 45,
+                        "second": 22,
+                        "epoch": 1506116722000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 22,
+                        "epoch": 1506116722000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 45,
+                        "second": 22,
+                        "epoch": 1506116722000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 28,
+                        "epoch": 1506116728000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 45,
+                        "second": 28,
+                        "epoch": 1506116728000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 28,
+                        "epoch": 1506116728000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 45,
+                        "second": 28,
+                        "epoch": 1506116728000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 45,
+                        "second": 28,
+                        "epoch": 1506116728000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 45,
+                        "second": 34,
+                        "epoch": 1506116734000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 34,
+                        "epoch": 1506116734000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 45,
+                        "second": 34,
+                        "epoch": 1506116734000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 34,
+                        "epoch": 1506116734000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 34,
+                        "epoch": 1506116734000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 45,
+                        "second": 40,
+                        "epoch": 1506116740000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 45,
+                        "second": 40,
+                        "epoch": 1506116740000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 45,
+                        "second": 40,
+                        "epoch": 1506116740000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 45,
+                        "second": 40,
+                        "epoch": 1506116740000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 40,
+                        "epoch": 1506116740000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 46,
+                        "epoch": 1506116746000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 45,
+                        "second": 46,
+                        "epoch": 1506116746000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 45,
+                        "second": 46,
+                        "epoch": 1506116746000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 45,
+                        "second": 46,
+                        "epoch": 1506116746000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 46,
+                        "epoch": 1506116746000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 52,
+                        "epoch": 1506116752000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 52,
+                        "epoch": 1506116752000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 45,
+                        "second": 52,
+                        "epoch": 1506116752000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 45,
+                        "second": 52,
+                        "epoch": 1506116752000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 45,
+                        "second": 52,
+                        "epoch": 1506116752000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 45,
+                        "second": 58,
+                        "epoch": 1506116758000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 45,
+                        "second": 58,
+                        "epoch": 1506116758000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 45,
+                        "second": 58,
+                        "epoch": 1506116758000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 45,
+                        "second": 58,
+                        "epoch": 1506116758000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 45,
+                        "second": 58,
+                        "epoch": 1506116758000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 46,
+                        "second": 4,
+                        "epoch": 1506116764000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 46,
+                        "second": 4,
+                        "epoch": 1506116764000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 4,
+                        "epoch": 1506116764000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 4,
+                        "epoch": 1506116764000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 4,
+                        "epoch": 1506116764000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 46,
+                        "second": 10,
+                        "epoch": 1506116770000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 10,
+                        "epoch": 1506116770000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 46,
+                        "second": 10,
+                        "epoch": 1506116770000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 46,
+                        "second": 10,
+                        "epoch": 1506116770000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 10,
+                        "epoch": 1506116770000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 16,
+                        "epoch": 1506116776000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 16,
+                        "epoch": 1506116776000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 46,
+                        "second": 16,
+                        "epoch": 1506116776000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 16,
+                        "epoch": 1506116776000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 46,
+                        "second": 16,
+                        "epoch": 1506116776000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 22,
+                        "epoch": 1506116782000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 22,
+                        "epoch": 1506116782000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 22,
+                        "epoch": 1506116782000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 22,
+                        "epoch": 1506116782000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 22,
+                        "epoch": 1506116782000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 46,
+                        "second": 28,
+                        "epoch": 1506116788000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 28,
+                        "epoch": 1506116788000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 28,
+                        "epoch": 1506116788000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 28,
+                        "epoch": 1506116788000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 46,
+                        "second": 28,
+                        "epoch": 1506116788000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 46,
+                        "second": 34,
+                        "epoch": 1506116794000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 34,
+                        "epoch": 1506116794000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 34,
+                        "epoch": 1506116794000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 46,
+                        "second": 34,
+                        "epoch": 1506116794000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 46,
+                        "second": 34,
+                        "epoch": 1506116794000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 46,
+                        "second": 40,
+                        "epoch": 1506116800000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 46,
+                        "second": 40,
+                        "epoch": 1506116800000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 46,
+                        "second": 40,
+                        "epoch": 1506116800000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 40,
+                        "epoch": 1506116800000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 46,
+                        "second": 40,
+                        "epoch": 1506116800000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 46,
+                        "second": 46,
+                        "epoch": 1506116806000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 46,
+                        "epoch": 1506116806000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 46,
+                        "second": 46,
+                        "epoch": 1506116806000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 46,
+                        "epoch": 1506116806000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 46,
+                        "epoch": 1506116806000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 46,
+                        "second": 52,
+                        "epoch": 1506116812000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 46,
+                        "second": 52,
+                        "epoch": 1506116812000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 46,
+                        "second": 52,
+                        "epoch": 1506116812000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 46,
+                        "second": 52,
+                        "epoch": 1506116812000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 46,
+                        "second": 52,
+                        "epoch": 1506116812000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 58,
+                        "epoch": 1506116818000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 46,
+                        "second": 58,
+                        "epoch": 1506116818000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 46,
+                        "second": 58,
+                        "epoch": 1506116818000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 46,
+                        "second": 58,
+                        "epoch": 1506116818000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 46,
+                        "second": 58,
+                        "epoch": 1506116818000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 4,
+                        "epoch": 1506116824000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 4,
+                        "epoch": 1506116824000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 4,
+                        "epoch": 1506116824000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 47,
+                        "second": 4,
+                        "epoch": 1506116824000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 4,
+                        "epoch": 1506116824000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 10,
+                        "epoch": 1506116830000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 10,
+                        "epoch": 1506116830000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 47,
+                        "second": 10,
+                        "epoch": 1506116830000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 47,
+                        "second": 10,
+                        "epoch": 1506116830000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 10,
+                        "epoch": 1506116830000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 16,
+                        "epoch": 1506116836000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 47,
+                        "second": 16,
+                        "epoch": 1506116836000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 16,
+                        "epoch": 1506116836000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 16,
+                        "epoch": 1506116836000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 47,
+                        "second": 16,
+                        "epoch": 1506116836000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 22,
+                        "epoch": 1506116842000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 22,
+                        "epoch": 1506116842000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 22,
+                        "epoch": 1506116842000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 22,
+                        "epoch": 1506116842000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 22,
+                        "epoch": 1506116842000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 28,
+                        "epoch": 1506116848000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 28,
+                        "epoch": 1506116848000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 47,
+                        "second": 28,
+                        "epoch": 1506116848000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 28,
+                        "epoch": 1506116848000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 47,
+                        "second": 28,
+                        "epoch": 1506116848000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 47,
+                        "second": 34,
+                        "epoch": 1506116854000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 34,
+                        "epoch": 1506116854000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 47,
+                        "second": 34,
+                        "epoch": 1506116854000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 34,
+                        "epoch": 1506116854000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 47,
+                        "second": 34,
+                        "epoch": 1506116854000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 47,
+                        "second": 40,
+                        "epoch": 1506116860000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 40,
+                        "epoch": 1506116860000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 40,
+                        "epoch": 1506116860000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 47,
+                        "second": 40,
+                        "epoch": 1506116860000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 40,
+                        "epoch": 1506116860000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 46,
+                        "epoch": 1506116866000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 46,
+                        "epoch": 1506116866000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 46,
+                        "epoch": 1506116866000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 47,
+                        "second": 46,
+                        "epoch": 1506116866000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 46,
+                        "epoch": 1506116866000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 52,
+                        "epoch": 1506116872000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 52,
+                        "epoch": 1506116872000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 47,
+                        "second": 52,
+                        "epoch": 1506116872000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 52,
+                        "epoch": 1506116872000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 47,
+                        "second": 52,
+                        "epoch": 1506116872000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 58,
+                        "epoch": 1506116878000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 58,
+                        "epoch": 1506116878000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 58,
+                        "epoch": 1506116878000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 58,
+                        "epoch": 1506116878000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 58,
+                        "epoch": 1506116878000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 4,
+                        "epoch": 1506116884000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 48,
+                        "second": 4,
+                        "epoch": 1506116884000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 4,
+                        "epoch": 1506116884000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 48,
+                        "second": 4,
+                        "epoch": 1506116884000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 4,
+                        "epoch": 1506116884000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 10,
+                        "epoch": 1506116890000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 10,
+                        "epoch": 1506116890000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 48,
+                        "second": 10,
+                        "epoch": 1506116890000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 10,
+                        "epoch": 1506116890000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 48,
+                        "second": 10,
+                        "epoch": 1506116890000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 48,
+                        "second": 16,
+                        "epoch": 1506116896000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 16,
+                        "epoch": 1506116896000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 16,
+                        "epoch": 1506116896000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 48,
+                        "second": 16,
+                        "epoch": 1506116896000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 16,
+                        "epoch": 1506116896000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 48,
+                        "second": 22,
+                        "epoch": 1506116902000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 48,
+                        "second": 22,
+                        "epoch": 1506116902000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 48,
+                        "second": 22,
+                        "epoch": 1506116902000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 22,
+                        "epoch": 1506116902000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 48,
+                        "second": 22,
+                        "epoch": 1506116902000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 28,
+                        "epoch": 1506116908000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 48,
+                        "second": 28,
+                        "epoch": 1506116908000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 48,
+                        "second": 28,
+                        "epoch": 1506116908000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 28,
+                        "epoch": 1506116908000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 28,
+                        "epoch": 1506116908000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 34,
+                        "epoch": 1506116914000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 34,
+                        "epoch": 1506116914000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 34,
+                        "epoch": 1506116914000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 34,
+                        "epoch": 1506116914000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 48,
+                        "second": 34,
+                        "epoch": 1506116914000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 48,
+                        "second": 40,
+                        "epoch": 1506116920000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 40,
+                        "epoch": 1506116920000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 40,
+                        "epoch": 1506116920000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 48,
+                        "second": 40,
+                        "epoch": 1506116920000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 48,
+                        "second": 40,
+                        "epoch": 1506116920000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 48,
+                        "second": 46,
+                        "epoch": 1506116926000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 48,
+                        "second": 46,
+                        "epoch": 1506116926000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 48,
+                        "second": 46,
+                        "epoch": 1506116926000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 46,
+                        "epoch": 1506116926000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 48,
+                        "second": 46,
+                        "epoch": 1506116926000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 52,
+                        "epoch": 1506116932000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 52,
+                        "epoch": 1506116932000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 48,
+                        "second": 52,
+                        "epoch": 1506116932000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 48,
+                        "second": 52,
+                        "epoch": 1506116932000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 52,
+                        "epoch": 1506116932000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 48,
+                        "second": 58,
+                        "epoch": 1506116938000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 48,
+                        "second": 58,
+                        "epoch": 1506116938000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 48,
+                        "second": 58,
+                        "epoch": 1506116938000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 48,
+                        "second": 58,
+                        "epoch": 1506116938000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 48,
+                        "second": 58,
+                        "epoch": 1506116938000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 49,
+                        "second": 4,
+                        "epoch": 1506116944000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 4,
+                        "epoch": 1506116944000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 49,
+                        "second": 4,
+                        "epoch": 1506116944000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 49,
+                        "second": 4,
+                        "epoch": 1506116944000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 4,
+                        "epoch": 1506116944000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 10,
+                        "epoch": 1506116950000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 49,
+                        "second": 10,
+                        "epoch": 1506116950000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 49,
+                        "second": 10,
+                        "epoch": 1506116950000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 10,
+                        "epoch": 1506116950000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 49,
+                        "second": 10,
+                        "epoch": 1506116950000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 49,
+                        "second": 16,
+                        "epoch": 1506116956000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 16,
+                        "epoch": 1506116956000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 16,
+                        "epoch": 1506116956000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 16,
+                        "epoch": 1506116956000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 16,
+                        "epoch": 1506116956000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 49,
+                        "second": 22,
+                        "epoch": 1506116962000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 49,
+                        "second": 22,
+                        "epoch": 1506116962000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 22,
+                        "epoch": 1506116962000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 22,
+                        "epoch": 1506116962000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 49,
+                        "second": 22,
+                        "epoch": 1506116962000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 49,
+                        "second": 28,
+                        "epoch": 1506116968000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 28,
+                        "epoch": 1506116968000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 49,
+                        "second": 28,
+                        "epoch": 1506116968000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 49,
+                        "second": 28,
+                        "epoch": 1506116968000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 49,
+                        "second": 28,
+                        "epoch": 1506116968000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 34,
+                        "epoch": 1506116974000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 34,
+                        "epoch": 1506116974000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 49,
+                        "second": 34,
+                        "epoch": 1506116974000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 34,
+                        "epoch": 1506116974000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 34,
+                        "epoch": 1506116974000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 40,
+                        "epoch": 1506116980000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 49,
+                        "second": 40,
+                        "epoch": 1506116980000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 40,
+                        "epoch": 1506116980000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 40,
+                        "epoch": 1506116980000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 40,
+                        "epoch": 1506116980000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 46,
+                        "epoch": 1506116986000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 49,
+                        "second": 46,
+                        "epoch": 1506116986000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 46,
+                        "epoch": 1506116986000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 49,
+                        "second": 46,
+                        "epoch": 1506116986000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 49,
+                        "second": 46,
+                        "epoch": 1506116986000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 52,
+                        "epoch": 1506116992000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 52,
+                        "epoch": 1506116992000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 52,
+                        "epoch": 1506116992000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 52,
+                        "epoch": 1506116992000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 49,
+                        "second": 52,
+                        "epoch": 1506116992000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 49,
+                        "second": 58,
+                        "epoch": 1506116998000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 49,
+                        "second": 58,
+                        "epoch": 1506116998000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 49,
+                        "second": 58,
+                        "epoch": 1506116998000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 49,
+                        "second": 58,
+                        "epoch": 1506116998000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 49,
+                        "second": 58,
+                        "epoch": 1506116998000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 50,
+                        "second": 4,
+                        "epoch": 1506117004000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 4,
+                        "epoch": 1506117004000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 50,
+                        "second": 4,
+                        "epoch": 1506117004000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 4,
+                        "epoch": 1506117004000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 50,
+                        "second": 4,
+                        "epoch": 1506117004000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 50,
+                        "second": 10,
+                        "epoch": 1506117010000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 50,
+                        "second": 10,
+                        "epoch": 1506117010000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 50,
+                        "second": 10,
+                        "epoch": 1506117010000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 10,
+                        "epoch": 1506117010000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 10,
+                        "epoch": 1506117010000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 50,
+                        "second": 16,
+                        "epoch": 1506117016000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 16,
+                        "epoch": 1506117016000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 16,
+                        "epoch": 1506117016000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 16,
+                        "epoch": 1506117016000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 50,
+                        "second": 16,
+                        "epoch": 1506117016000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 50,
+                        "second": 22,
+                        "epoch": 1506117022000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 22,
+                        "epoch": 1506117022000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 50,
+                        "second": 22,
+                        "epoch": 1506117022000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 50,
+                        "second": 22,
+                        "epoch": 1506117022000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 22,
+                        "epoch": 1506117022000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 28,
+                        "epoch": 1506117028000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 28,
+                        "epoch": 1506117028000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 50,
+                        "second": 28,
+                        "epoch": 1506117028000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 50,
+                        "second": 28,
+                        "epoch": 1506117028000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 50,
+                        "second": 28,
+                        "epoch": 1506117028000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 50,
+                        "second": 34,
+                        "epoch": 1506117034000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 50,
+                        "second": 34,
+                        "epoch": 1506117034000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 34,
+                        "epoch": 1506117034000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 50,
+                        "second": 34,
+                        "epoch": 1506117034000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 34,
+                        "epoch": 1506117034000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 40,
+                        "epoch": 1506117040000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 50,
+                        "second": 40,
+                        "epoch": 1506117040000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 40,
+                        "epoch": 1506117040000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 40,
+                        "epoch": 1506117040000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 50,
+                        "second": 40,
+                        "epoch": 1506117040000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 50,
+                        "second": 46,
+                        "epoch": 1506117046000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 46,
+                        "epoch": 1506117046000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 46,
+                        "epoch": 1506117046000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 50,
+                        "second": 46,
+                        "epoch": 1506117046000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 46,
+                        "epoch": 1506117046000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 50,
+                        "second": 52,
+                        "epoch": 1506117052000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 50,
+                        "second": 52,
+                        "epoch": 1506117052000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 50,
+                        "second": 52,
+                        "epoch": 1506117052000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 50,
+                        "second": 52,
+                        "epoch": 1506117052000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 50,
+                        "second": 52,
+                        "epoch": 1506117052000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 50,
+                        "second": 58,
+                        "epoch": 1506117058000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 50,
+                        "second": 58,
+                        "epoch": 1506117058000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 50,
+                        "second": 58,
+                        "epoch": 1506117058000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 50,
+                        "second": 58,
+                        "epoch": 1506117058000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 50,
+                        "second": 58,
+                        "epoch": 1506117058000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 51,
+                        "second": 4,
+                        "epoch": 1506117064000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 4,
+                        "epoch": 1506117064000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 4,
+                        "epoch": 1506117064000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 4,
+                        "epoch": 1506117064000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 4,
+                        "epoch": 1506117064000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 10,
+                        "epoch": 1506117070000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 10,
+                        "epoch": 1506117070000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 51,
+                        "second": 10,
+                        "epoch": 1506117070000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 10,
+                        "epoch": 1506117070000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 51,
+                        "second": 10,
+                        "epoch": 1506117070000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 16,
+                        "epoch": 1506117076000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 16,
+                        "epoch": 1506117076000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 51,
+                        "second": 16,
+                        "epoch": 1506117076000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 16,
+                        "epoch": 1506117076000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 51,
+                        "second": 16,
+                        "epoch": 1506117076000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 51,
+                        "second": 22,
+                        "epoch": 1506117082000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 22,
+                        "epoch": 1506117082000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 22,
+                        "epoch": 1506117082000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 22,
+                        "epoch": 1506117082000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 51,
+                        "second": 22,
+                        "epoch": 1506117082000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 28,
+                        "epoch": 1506117088000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 28,
+                        "epoch": 1506117088000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 51,
+                        "second": 28,
+                        "epoch": 1506117088000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 51,
+                        "second": 28,
+                        "epoch": 1506117088000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 51,
+                        "second": 28,
+                        "epoch": 1506117088000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 34,
+                        "epoch": 1506117094000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 34,
+                        "epoch": 1506117094000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 51,
+                        "second": 34,
+                        "epoch": 1506117094000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 34,
+                        "epoch": 1506117094000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 34,
+                        "epoch": 1506117094000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 51,
+                        "second": 40,
+                        "epoch": 1506117100000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 40,
+                        "epoch": 1506117100000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 40,
+                        "epoch": 1506117100000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 51,
+                        "second": 40,
+                        "epoch": 1506117100000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 40,
+                        "epoch": 1506117100000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 51,
+                        "second": 46,
+                        "epoch": 1506117106000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 46,
+                        "epoch": 1506117106000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 51,
+                        "second": 46,
+                        "epoch": 1506117106000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 51,
+                        "second": 46,
+                        "epoch": 1506117106000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 51,
+                        "second": 46,
+                        "epoch": 1506117106000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 51,
+                        "second": 52,
+                        "epoch": 1506117112000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 51,
+                        "second": 52,
+                        "epoch": 1506117112000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 52,
+                        "epoch": 1506117112000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 51,
+                        "second": 52,
+                        "epoch": 1506117112000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 52,
+                        "epoch": 1506117112000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 51,
+                        "second": 58,
+                        "epoch": 1506117118000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 51,
+                        "second": 58,
+                        "epoch": 1506117118000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 58,
+                        "epoch": 1506117118000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 51,
+                        "second": 58,
+                        "epoch": 1506117118000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 51,
+                        "second": 58,
+                        "epoch": 1506117118000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 52,
+                        "second": 4,
+                        "epoch": 1506117124000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 52,
+                        "second": 4,
+                        "epoch": 1506117124000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 52,
+                        "second": 4,
+                        "epoch": 1506117124000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 52,
+                        "second": 4,
+                        "epoch": 1506117124000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 52,
+                        "second": 4,
+                        "epoch": 1506117124000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 52,
+                        "second": 10,
+                        "epoch": 1506117130000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 52,
+                        "second": 10,
+                        "epoch": 1506117130000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 52,
+                        "second": 10,
+                        "epoch": 1506117130000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 52,
+                        "second": 10,
+                        "epoch": 1506117130000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 52,
+                        "second": 10,
+                        "epoch": 1506117130000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506117141000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506117141000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506117141000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506117141000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506117141000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506117441000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506117441000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506117441000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506117441000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506117441000.0,
+                        "temp": 72
+                    }
+                ]
+            ],
+            [
+                15,
+                73.86666666666666,
+                [
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506117741000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506117741000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506117741000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506117741000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506117741000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506118041000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506118041000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506118041000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506118041000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506118041000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 12,
+                        "second": 21,
+                        "epoch": 1506118341000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 12,
+                        "second": 21,
+                        "epoch": 1506118341000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 12,
+                        "second": 21,
+                        "epoch": 1506118341000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 12,
+                        "second": 21,
+                        "epoch": 1506118341000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 12,
+                        "second": 21,
+                        "epoch": 1506118341000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 17,
+                        "second": 21,
+                        "epoch": 1506118641000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 17,
+                        "second": 21,
+                        "epoch": 1506118641000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 17,
+                        "second": 21,
+                        "epoch": 1506118641000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 17,
+                        "second": 21,
+                        "epoch": 1506118641000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 17,
+                        "second": 21,
+                        "epoch": 1506118641000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 22,
+                        "second": 21,
+                        "epoch": 1506118941000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 22,
+                        "second": 21,
+                        "epoch": 1506118941000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 22,
+                        "second": 21,
+                        "epoch": 1506118941000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 22,
+                        "second": 21,
+                        "epoch": 1506118941000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 22,
+                        "second": 21,
+                        "epoch": 1506118941000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 27,
+                        "second": 21,
+                        "epoch": 1506119241000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 27,
+                        "second": 21,
+                        "epoch": 1506119241000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 27,
+                        "second": 21,
+                        "epoch": 1506119241000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 27,
+                        "second": 21,
+                        "epoch": 1506119241000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 27,
+                        "second": 21,
+                        "epoch": 1506119241000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 32,
+                        "second": 21,
+                        "epoch": 1506119541000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 32,
+                        "second": 21,
+                        "epoch": 1506119541000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 32,
+                        "second": 21,
+                        "epoch": 1506119541000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 32,
+                        "second": 21,
+                        "epoch": 1506119541000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 32,
+                        "second": 21,
+                        "epoch": 1506119541000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 37,
+                        "second": 21,
+                        "epoch": 1506119841000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 37,
+                        "second": 21,
+                        "epoch": 1506119841000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 37,
+                        "second": 21,
+                        "epoch": 1506119841000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 37,
+                        "second": 21,
+                        "epoch": 1506119841000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 37,
+                        "second": 21,
+                        "epoch": 1506119841000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 21,
+                        "epoch": 1506120141000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 42,
+                        "second": 21,
+                        "epoch": 1506120141000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 21,
+                        "epoch": 1506120141000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 21,
+                        "epoch": 1506120141000.0,
+                        "temp": 78
+                    },
+                    {
+                        "minute": 42,
+                        "second": 21,
+                        "epoch": 1506120141000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 47,
+                        "second": 21,
+                        "epoch": 1506120441000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 47,
+                        "second": 21,
+                        "epoch": 1506120441000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 47,
+                        "second": 21,
+                        "epoch": 1506120441000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 47,
+                        "second": 21,
+                        "epoch": 1506120441000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 47,
+                        "second": 21,
+                        "epoch": 1506120441000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506120741000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506120741000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506120741000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506120741000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 52,
+                        "second": 21,
+                        "epoch": 1506120741000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506121041000.0,
+                        "temp": 72
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506121041000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506121041000.0,
+                        "temp": 73
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506121041000.0,
+                        "temp": 74
+                    },
+                    {
+                        "minute": 57,
+                        "second": 21,
+                        "epoch": 1506121041000.0,
+                        "temp": 74
+                    }
+                ]
+            ],
+            [
+                16,
+                75.0,
+                [
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506121341000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506121341000.0,
+                        "temp": 76
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506121341000.0,
+                        "temp": 75
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506121341000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 2,
+                        "second": 21,
+                        "epoch": 1506121341000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506121641000.0,
+                        "temp": 70
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506121641000.0,
+                        "temp": 77
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506121641000.0,
+                        "temp": 79
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506121641000.0,
+                        "temp": 71
+                    },
+                    {
+                        "minute": 7,
+                        "second": 21,
+                        "epoch": 1506121641000.0,
+                        "temp": 77
+                    }
+                ]
+            ]
+        ]
+    },
+    "living_room": {}
+}
