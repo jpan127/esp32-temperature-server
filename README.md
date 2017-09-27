@@ -13,4 +13,4 @@
     multiple microcontrollers set up around the house maybe they can be used simulatenously for other tasks.
     
 ### First working charts with dummy data
-![Screenshot](first_test.PNG)
+![Screenshot](test/test2.PNG)

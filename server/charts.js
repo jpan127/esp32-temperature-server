@@ -400,6 +400,18 @@ $(document).ready(function() {
 
         // CreateTable(values, values.length);
 
+
+
+        var current_date = new Date();
+        var timezone_offset = current_date.getTimezoneOffset();
+        console.log(timezone_offset);
+
+        Highcharts.setOptions({
+            global: {
+                timezoneOffset: timezone_offset
+            }
+        });
+
         Highcharts.chart("bedroom", {
 
             title: { text: 'BEDROOM' },

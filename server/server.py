@@ -9,7 +9,7 @@ import time
 
 # Default address
 PORT = 11111
-IP   = "127.0.0.1"
+IP   = "0.0.0.0"
 
 # Set logging level
 logging.basicConfig(level=logging.DEBUG, format='(%(threadName)s) %(message)s',)
@@ -211,11 +211,11 @@ class UdpServer():
 		if values[0] not in ROOMS:
 			logging.error("Missing or invalid room!")
 			return None, None
-		elif int(values[1]) not in range(0, 150):
+		elif float(values[1]) < 0 or float(values[1]) > 120:
 			logging.error("Missing or invalid temperature!")
 			return None, None
 		else:
-			return values[0], int(values[1])
+			return values[0], float(values[1])
 
 	def listen(self):
 		try:
@@ -223,7 +223,7 @@ class UdpServer():
 				data, addr = self.sock.recvfrom(4096)
 				if data:
 					room, temp = self.ParseData(data)
-					logging.debug("From: %s | Room: %s | Temperature: %i", addr, room, temp)
+					logging.debug("From: %s | Room: %s | Temperature: %f", addr, room, temp)
 					sys.stdout.flush()
 					temp_dict = TemperatureDictionary()
 					temp_dict.AddData(room, temp)
